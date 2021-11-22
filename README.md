@@ -1,9 +1,7 @@
 ### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
-- 🔭 I’m currently working on [Laravel](https://laravel.com/)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev)
-- 👯 I’m looking to collaborate on [Co-Helper](https://github.com/bsteps/co-helper)
-- 🤔 I’m looking for help with [Co-Helper](https://github.com/bsteps/co-helper)
+- 🔭 I’m currently working on [Flutter](https://flutter.dev)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 📫 How to reach me: [Telegram](https://t.me/bsteps), [Instagram](https://www.instagram.com/nishanttadvi)
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: ``
