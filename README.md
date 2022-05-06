@@ -1,10 +1,9 @@
 ### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev)
+- 🔭 I’m currently working on startup
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 📫 How to reach me: [Telegram](https://t.me/bsteps), [Instagram](https://www.instagram.com/nishanttadvi)
 - 😄 Pronouns: `He/Him`
-- ⚡ Fun fact: ``
 
 
 <img src="https://yc-stats.vercel.app/api?username=bsteps&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Nishant's GitHub stats" />
